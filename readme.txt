@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [SIP calculator](https://www.calculator.io/sip-calculator/ "SIP calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_sip_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the SIP calculator to the sidebar through the `Appearance -> Widgets -> SIP calculator` menu in WordPress.
+* Add the shortcode `[ci_sip_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_sip_calculator(); ?>` to your template where you would like the SIP calculator to appear.
 
 == Screenshots ==

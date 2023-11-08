@@ -12,9 +12,8 @@ Calculate SIP returns, growth & wealth accumulation with confidence using our SI
 3. Activate the [SIP calculator](https://www.calculator.io/sip-calculator/ "SIP calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_sip_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the SIP calculator to the sidebar through the `Appearance -> Widgets -> SIP calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_sip_calculator(); ?>` to your template where you would like the SIP calculator to appear.
+* Add the shortcode `[ci_sip_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_sip_calculator(); ?>` to your template where you would like the SIP calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
