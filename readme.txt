@@ -13,6 +13,8 @@ Calculate SIP returns, growth & wealth accumulation with confidence using our SI
 
 Calculate SIP returns, growth & wealth accumulation with confidence using our SIP calculator. Make informed investment decisions.
 
+[SIP calculator Homepage](https://www.calculator.io/sip-calculator/ "SIP calculator Homepage")
+
 __Shortcode__
 
 Use the SIP calculator shortcode:
