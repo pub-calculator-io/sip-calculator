@@ -1,6 +1,6 @@
 === SIP calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: sip calculator, systematic investment plan returns, mutual fund investment scheme, periodic investment calculations, compounding wealth growth, market volatility impact, maturity amount estimation, mutual fund selection guidance
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
