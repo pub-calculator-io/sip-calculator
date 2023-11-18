@@ -1,4 +1,4 @@
-# SIP calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# SIP calculator Widget for WordPress
 
 Calculate SIP returns, growth & wealth accumulation with confidence using our SIP calculator. Make informed investment decisions.
 
