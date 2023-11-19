@@ -7,7 +7,7 @@ Calculate SIP returns, growth & wealth accumulation with confidence using our SI
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/sip-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /sip-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [SIP calculator](https://www.calculator.io/sip-calculator/ "SIP calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
