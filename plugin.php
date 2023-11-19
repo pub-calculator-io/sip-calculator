@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: SIP calculator by www.calculator.io
+Plugin Name: CI Sip calculator
 Plugin URI: https://www.calculator.io/sip-calculator/
 Description: Calculate SIP returns, growth & wealth accumulation with confidence using our SIP calculator. Make informed investment decisions.
 Version: 1.0.0
