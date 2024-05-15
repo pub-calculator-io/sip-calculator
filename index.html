@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-    <title>SIP calculator</title>
+    <title>SIP Сalculator</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
@@ -86,14 +86,17 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
-                	<script type="text/javascript" src="./assets/js/chart.js" id="chartjs_script"></script>
+                	<script type="text/javascript" src="./assets/js/lib/chartjs/chart.min.js" id="chartjs_lib" defer></script>
+                	<script type="text/javascript" src="./assets/js/chart.js" id="chartjs_script" defer></script>
                 
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -108,8 +111,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><style>
     #chartDonutSmall {
         max-width: 200px;
@@ -119,7 +121,7 @@
 <div class="calculator-result col">
 	<p class="table-cell table-cell--table-dark table-cell--only-title">Result</p>
 	<div class="table-cell table-cell--age table-cell--only row">
-		<div class="col chart__text">
+		<div class="col chart__text animate">
 			<p class="result-text" id="expected-amount">Expected Amount: $278,657.27</p>
 			<p class="result-text result-text--small-loan" id="invested">Amount Invested: $120,000.00</p>
 			<p class="result-text result-text--small-loan" id="gain">Wealth Gain: $158,657.27</p>
@@ -143,7 +145,7 @@
 		<table class="result-table">
 			<thead>
 			<tr>
-				<th class="indigo text-center">№</th>
+				<th class="indigo text-center">#</th>
 				<th class="indigo">Duration</th>
 				<th class="indigo">SIP Amount</th>
 				<th class="indigo">Future Value</th>

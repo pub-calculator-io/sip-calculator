@@ -13,25 +13,24 @@ Calculate SIP returns, growth & wealth accumulation with confidence using our SI
 
 == Usage ==
 
-Add the SIP calculator shortcode to your page, post or sidebar:
+Add the SIP Сalculator shortcode to your page, post or sidebar:
 
 `[ci_sip_calculator]`
 
-Add the following code to your template where you would like the SIP calculator to appear:
+Add the following code to your template where you would like the SIP Сalculator to appear:
 
 `<?php display_ci_sip_calculator(); ?>`
 
 == Screenshots ==
 
-1. The SIP calculator Input Form.
-2. The SIP calculator Calculation Results.
+1. The SIP Сalculator Input Form.
 
 == Installation ==
 
-1. Upload the SIP calculator /ci_sip_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the SIP calculator plugin through the "Plugins" menu in WordPress.
+1. Upload the SIP Сalculator /ci_sip_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the SIP Сalculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release of SIP calculator
+* Initial release of SIP Сalculator

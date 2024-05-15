@@ -1,19 +1,18 @@
-# SIP calculator Widget for WordPress
+# SIP Сalculator Widget for WordPress
 
 Calculate SIP returns, growth & wealth accumulation with confidence using our SIP calculator. Make informed investment decisions.
 
-![SIP calculator Input Form](/assets/images/screenshot-1.png "SIP calculator Input Form")
-![SIP calculator Calculation Results](/assets/images/screenshot-2.png "SIP calculator Calculation Results")
+![SIP Сalculator Input Form](/assets/images/screenshot-1.png "SIP Сalculator Input Form")
 
 ## Installation
 
 1. [Download](https://github.com/pub-calculator-io/sip-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /sip-calculator-master/ folder to the /wp-content/plugins/ directory.
-3. Activate the [SIP calculator](https://www.calculator.io/sip-calculator/ "SIP calculator Homepage") plugin through the "Plugins" menu in WordPress.
+3. Activate the [SIP Сalculator](https://www.calculator.io/sip-calculator/ "SIP Сalculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
 * Add the shortcode `[ci_sip_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_sip_calculator(); ?>` to your template where you would like the SIP calculator to appear.
+* Or add the following code: `<?php display_ci_sip_calculator(); ?>` to your template where you would like the SIP Сalculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
