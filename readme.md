@@ -1,6 +1,6 @@
 # SIP Сalculator Widget for WordPress
 
-Calculate SIP returns, growth & wealth accumulation with confidence using our SIP calculator. Make informed investment decisions.
+Calculate mutual fund returns and estimate future wealth with our free SIP Calculator. Plan your Systematic Investment Plan today to make smart investments.
 
 ![SIP Сalculator Input Form](/assets/images/screenshot-1.png "SIP Сalculator Input Form")
 
@@ -11,8 +11,8 @@ Calculate SIP returns, growth & wealth accumulation with confidence using our SI
 3. Activate the [SIP Сalculator](https://www.calculator.io/sip-calculator/ "SIP Сalculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_sip_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_sip_calculator(); ?>` to your template where you would like the SIP Сalculator to appear.
+* Add the shortcode `[calcio_sip_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_sip_calculator(); ?>` to your template where you would like the SIP Сalculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
